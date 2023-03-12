@@ -1,0 +1,10 @@
+.text2{
+    background-color: rgb(240, 234, 234);
+    box-shadow: 3px 3px 2px gray;
+    height: 300px;
+    display: inline-block;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}

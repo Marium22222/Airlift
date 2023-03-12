@@ -1,0 +1,39 @@
+.text3{
+    height: 350px;
+    width: 200px;
+    background-color: white;
+    margin-left: 50px;
+    border: 2px solid rgb(245, 240, 240);
+    box-shadow: 2px 2px 3px gray;
+    display: inline-block;
+}
+#h4y{
+ color: black;
+ text-align: center;
+ font-size: 15px;
+ margin-top: 5px;
+
+
+}
+#im4{
+ height: 100px;
+ width: 100px;
+ margin-left: 30px;
+}
+#but{
+  border: 2px solid red;
+  background-color: white;
+  color: red;
+  height: 30px;
+  width: 100px;
+}
+#but:hover{
+    background-color: red;
+    color: wheat;
+}
+#a3{
+    display: block;
+    margin-left: 25px;
+    margin-top: 10px;
+   
+}

@@ -1,0 +1,15 @@
+#a1{
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
+  
+   
+}
+#a1:hover{
+    color: blue;
+    
+}
+nav{
+    display: inline-block;
+    text-align: right;
+}

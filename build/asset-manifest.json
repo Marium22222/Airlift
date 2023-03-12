@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c0defc.css",
+    "main.js": "/static/js/main.12ec0043.js",
+    "static/js/787.b4286391.chunk.js": "/static/js/787.b4286391.chunk.js",
+    "static/media/cheddar.png": "/static/media/cheddar.003d15039c2744c2ebeb.png",
+    "static/media/bloom.png": "/static/media/bloom.5023fbafa3fdf9d9ae31.png",
+    "static/media/thy.png": "/static/media/thy.a1f6437642954dca1e2c.png",
+    "static/media/pudding.png": "/static/media/pudding.438abbea240052ac7afc.png",
+    "static/media/lacto.png": "/static/media/lacto.9c5cb6fe1384c8070fa4.png",
+    "static/media/wil.png": "/static/media/wil.16a3ce9a0b946c8e5116.png",
+    "static/media/king.png": "/static/media/king.eafb51069c03422c3b33.png",
+    "static/media/cyc.png": "/static/media/cyc.df655a030fc05332df60.png",
+    "static/media/zia.png": "/static/media/zia.6f96d414294c93306805.png",
+    "static/media/sunridge.jpeg": "/static/media/sunridge.c0911b695c75ac5a20ff.jpeg",
+    "static/media/oven.jpeg": "/static/media/oven.173dec282171cea7eca8.jpeg",
+    "static/media/fam.jpeg": "/static/media/fam.d614fd29f96794813663.jpeg",
+    "static/media/purifier.jpeg": "/static/media/purifier.c37231c1224f5279c33d.jpeg",
+    "static/media/olper.jpg": "/static/media/olper.cad5dd83c5b0881a498f.jpg",
+    "static/media/tv.jpeg": "/static/media/tv.1abce94ff47ddaa6e164.jpeg",
+    "static/media/day.jpeg": "/static/media/day.414ab611ccba6d14ebe9.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.51c0defc.css.map": "/static/css/main.51c0defc.css.map",
+    "main.12ec0043.js.map": "/static/js/main.12ec0043.js.map",
+    "787.b4286391.chunk.js.map": "/static/js/787.b4286391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c0defc.css",
+    "static/js/main.12ec0043.js"
+  ]
+}
